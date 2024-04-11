@@ -11,6 +11,7 @@
 		74AD924F2BC6CB700002F0DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AD924E2BC6CB700002F0DB /* ContentView.swift */; };
 		74AD92512BC6CB720002F0DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74AD92502BC6CB720002F0DB /* Assets.xcassets */; };
 		74AD92542BC6CB720002F0DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74AD92532BC6CB720002F0DB /* Preview Assets.xcassets */; };
+		74FEF8EF2BC777B400B4F241 /* NavigateWithPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74FEF8EE2BC777B400B4F241 /* NavigateWithPath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		74AD924E2BC6CB700002F0DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		74AD92502BC6CB720002F0DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74AD92532BC6CB720002F0DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		74FEF8EE2BC777B400B4F241 /* NavigateWithPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigateWithPath.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		74AD92402BC6CB700002F0DB = {
 			isa = PBXGroup;
 			children = (
+				74FEF8EE2BC777B400B4F241 /* NavigateWithPath.swift */,
 				74AD924B2BC6CB700002F0DB /* SwiftUI-Navigation */,
 				74AD924A2BC6CB700002F0DB /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74FEF8EF2BC777B400B4F241 /* NavigateWithPath.swift in Sources */,
 				74AD924F2BC6CB700002F0DB /* ContentView.swift in Sources */,
 				74AD924D2BC6CB700002F0DB /* SwiftUI_NavigationApp.swift in Sources */,
 			);
